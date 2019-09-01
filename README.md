@@ -1,2 +1,2 @@
-# Transfer-Learning-Classifier
-TensorFlow.js Transfer Learning Image Classifier
+# Transfer Learning Image Classifier
+The code creates a customer image classifier that will train a model on the fly in the browser using TensorFlow.js, a machine learning library for Javascript and MobelNet, a pre-trained image classifier. The code also has a "K-Nearest Neighbors Classifier" module that is used to do transfer learning on a new set of classes that can be define on the fly with a webcam.
